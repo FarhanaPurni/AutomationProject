@@ -20,6 +20,10 @@ public class BaseClass {
 		driver.findElement(By.xpath("//button[@class='btn btn-primary']")).click();
 	   System.out.println( driver.getTitle());
 		//driver.quit();
+	   
+	   System.out.println("craete Automation Project");
+	   
+	   
 	}
 	
 public static void main(String[] args) {
